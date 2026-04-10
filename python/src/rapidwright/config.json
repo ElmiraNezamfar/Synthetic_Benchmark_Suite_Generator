@@ -1,0 +1,8 @@
+{
+    "rapidwright_path": "/path/to/your/rapidwright",
+    "folder_src": "/path/to/save/all/generate/histories_edf_dcp",
+    "folder_dest": "/path/to/save/selected/histories_edf_dcp",
+    "folder_base": "/path/to/your/source/designs_edf",
+    "target_module_multiplier": 3.0,
+    "max_reduction_pct": 0.20
+}

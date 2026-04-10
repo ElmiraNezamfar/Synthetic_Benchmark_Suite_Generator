@@ -1,0 +1,8 @@
+{
+    "rapidwright_path": "/RapidWright",
+    "folder_src": "/RapidWright/python/src/rapidwright/example/generatedBench",
+    "folder_dest": "/RapidWright/python/src/rapidwright/example/selectedBench",
+    "folder_base": "/RapidWright/python/src/rapidwright/example/baseBench",
+    "target_module_multiplier": 3.0,
+    "max_reduction_pct": 0.20
+}
