@@ -31,4 +31,4 @@ Update the absolute paths for your local environment and desire parameters value
 ## 5. Usage
 To start the benchmark generation loop:
 ```bash
-python ./generateHistory.py --config config.json
+python generateHistory.py --config config.json
